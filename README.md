@@ -9,3 +9,5 @@ asbfi have 2 option:
 the input one you specify the code, but the interpret one interpret a file you choose to interpret.
 
 oh yeah it also ignore any character that isn't brainfuck commands.
+
+and also the examples are token (from esolang's brainfuck page)[https://esolangs.org/wiki/Brainfuck]
